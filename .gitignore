@@ -14,13 +14,9 @@ bin/
 
 .github/token.txt
 
-/ma.owl
-/ma.obo
 /ma.json
 /ma.db
-/ma-base.*
 /ma-basic.*
-/ma-full.*
 /ma-simple.*
 /ma-simple-non-classified.*
 /mappings/
