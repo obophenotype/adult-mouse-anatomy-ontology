@@ -1,0 +1,20 @@
+id: ma
+title: "Mouse adult gross anatomy"
+github_org: obophenotype
+repo: adult-mouse-anatomy-ontology
+git_main_branch: main
+edit_format: obo
+export_formats:
+  - owl
+  - obo
+release_artefacts:
+  - base
+  - full
+import_group:
+  annotation_properties:
+    - rdfs:label
+    - IAO:0000115
+    - OMO:0002000
+primary_release: full
+license: https://creativecommons.org/licenses/by/4.0/
+description: "A structured controlled vocabulary of the adult anatomy of the mouse (Mus)."
