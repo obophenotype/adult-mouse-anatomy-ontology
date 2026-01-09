@@ -3,6 +3,7 @@ date: 01:08:2017 16:47
 saved-by: terryh
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: adult_mouse_anatomy.gxd
+ontology: ma
 
 [Term]
 id: MA:0000001
