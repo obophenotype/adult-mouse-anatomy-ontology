@@ -12,7 +12,7 @@ synonym: "mouse anatomy" RELATED []
 
 [Term]
 id: MA:0000002
-name: spinal cord grey matter
+name: spinal cord grey matters
 xref: EMAPS:3579228
 is_a: MA:0001112 ! grey matter
 relationship: part_of MA:0000216 ! spinal cord
