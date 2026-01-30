@@ -166,7 +166,7 @@
                 <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MA_0000216"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <oboInOwl:hasDbXref>EMAPS:3579228</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>EMAPA:35792</oboInOwl:hasDbXref>
         <oboInOwl:hasOBONamespace>adult_mouse_anatomy.gxd</oboInOwl:hasOBONamespace>
         <oboInOwl:id>MA:0000002</oboInOwl:id>
         <rdfs:label>spinal cord grey matter</rdfs:label>
@@ -184,7 +184,7 @@
                 <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/MA_0002405"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <oboInOwl:hasDbXref>EMAPS:1610328</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref>EMAPA:16103</oboInOwl:hasDbXref>
         <oboInOwl:hasOBONamespace>adult_mouse_anatomy.gxd</oboInOwl:hasOBONamespace>
         <oboInOwl:id>MA:0000003</oboInOwl:id>
         <rdfs:label>organ system</rdfs:label>

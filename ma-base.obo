@@ -18,14 +18,14 @@ synonym: "mouse anatomy" RELATED []
 [Term]
 id: MA:0000002
 name: spinal cord grey matter
-xref: EMAPS:3579228
+xref: EMAPA:35792
 is_a: MA:0001112 ! grey matter
 relationship: part_of MA:0000216 ! spinal cord
 
 [Term]
 id: MA:0000003
 name: organ system
-xref: EMAPS:1610328
+xref: EMAPA:16103
 is_a: MA:0003000 ! anatomical structure
 relationship: part_of MA:0002405 ! postnatal mouse
 
