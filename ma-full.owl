@@ -9,13 +9,13 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/ma/ma-full.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/ma/releases/2026-01-09/ma-full.owl"/>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/ma/releases/2026-01-30/ma-full.owl"/>
         <oboInOwl:auto-generated-by>OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
         <oboInOwl:date>01:08:2017 16:47</oboInOwl:date>
         <oboInOwl:default-namespace>adult_mouse_anatomy.gxd</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by>terryh</oboInOwl:saved-by>
-        <owl:versionInfo>2026-01-09</owl:versionInfo>
+        <owl:versionInfo>2026-01-30</owl:versionInfo>
     </owl:Ontology>
     
 

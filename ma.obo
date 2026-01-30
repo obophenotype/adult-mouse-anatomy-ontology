@@ -1,12 +1,12 @@
 format-version: 1.2
-data-version: releases/2026-01-09
+data-version: releases/2026-01-30
 date: 01:08:2017 16:47
 saved-by: terryh
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: adult_mouse_anatomy.gxd
 idspace: oboInOwl http://www.geneontology.org/formats/oboInOwl# 
 ontology: ma
-property_value: owl:versionInfo "2026-01-09" xsd:string
+property_value: owl:versionInfo "2026-01-30" xsd:string
 
 [Term]
 id: MA:0000001

@@ -1,5 +1,5 @@
 format-version: 1.2
-data-version: ma/releases/2026-01-09/ma-base.owl
+data-version: ma/releases/2026-01-30/ma-base.owl
 date: 01:08:2017 16:47
 saved-by: terryh
 auto-generated-by: OBO-Edit 2.3.1
@@ -8,7 +8,7 @@ idspace: dc http://purl.org/dc/elements/1.1/
 idspace: oboInOwl http://www.geneontology.org/formats/oboInOwl# 
 ontology: ma/ma-base
 property_value: dc:type IAO:8000001
-property_value: owl:versionInfo "2026-01-09" xsd:string
+property_value: owl:versionInfo "2026-01-30" xsd:string
 
 [Term]
 id: MA:0000001
