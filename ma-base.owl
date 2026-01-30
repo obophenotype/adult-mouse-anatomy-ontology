@@ -13,7 +13,7 @@
         <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/ma/releases/2026-01-30/ma-base.owl"/>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/IAO_8000001"/>
         <oboInOwl:auto-generated-by>OBO-Edit 2.3.1</oboInOwl:auto-generated-by>
-        <oboInOwl:date>01:08:2017 16:47</oboInOwl:date>
+        <oboInOwl:date>30:01:2026 11:41</oboInOwl:date>
         <oboInOwl:default-namespace>adult_mouse_anatomy.gxd</oboInOwl:default-namespace>
         <oboInOwl:hasOBOFormatVersion>1.2</oboInOwl:hasOBOFormatVersion>
         <oboInOwl:saved-by>terryh</oboInOwl:saved-by>
